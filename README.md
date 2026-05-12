@@ -1,2 +1,1 @@
-# new.pascal.tree
-tree parse of new pascal
+games csharp.games.templete stractur basic game
